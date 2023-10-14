@@ -1,2 +1,1 @@
-# transcripts
-Teaching Mission Transcripts
+# Teaching Mission Transcripts
